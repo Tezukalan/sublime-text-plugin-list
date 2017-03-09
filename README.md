@@ -1,1 +1,14 @@
 # sublime-text-plugin-list
+- AngularJS
+- Babel
+- DocBlockr
+- Emmet
+- jQuery
+- JsFormat
+- LESS
+- MarkdownEditing
+- Material Theme
+- SideBarEnhancements
+- SublimeLinter
+- SublimeLinter-jshint
+- Terminal
