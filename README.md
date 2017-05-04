@@ -12,4 +12,5 @@
 - SublimeLinter
 - SublimeLinter-jshint
 - html-css-json prettify
-- Terminal
+- TypeScript
+- ?Terminal
